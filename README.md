@@ -2,10 +2,6 @@
 
 Repositório para armazenar artefatos do treinamento Rocketseat Ignite.
 
-# Índice 
-* [Descrição do Projeto](#Descrição-do-Projeto)
-* [Renderização de telas](#Formatos-e-Renderizacao-de-Telas)
-
 # Descrição do Projeto
 O objetivo do projeto é aplicar os conhecimentos adquiridos através do treinamento de React Rocketseat.
 
