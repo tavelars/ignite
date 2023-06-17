@@ -1,11 +1,11 @@
-# ignite
+# Treinamento Ignite
+
 Repositório para armazenar artefatos do treinamento Rocket Ignite.
 
 # Índice 
 * [Renderização de telas](#FormatoRenderizacaoTelas)
 
-# FormatoRenderizacaoTelas
-Formatos de renderização de telas:
+# Formatos e Renderizacao de Telas
 
 SSR - Server Side Rendering. O Browser se comunica com o Back-end e esse retorna o conteúdo da página pronto (ex.: HTML, CSS, JS).
 
