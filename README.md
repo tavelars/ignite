@@ -2,8 +2,8 @@
 
 Repositório para armazenar artefatos do treinamento Rocketseat Ignite.
 
-##  :bulb: Descrição do Projeto
-O objetivo do projeto é aplicar os conhecimentos adquiridos através do treinamento de React Rocketseat.
+##  :bulb: O Projeto
+O objetivo do projeto é aplicar os conhecimentos adquiridos através do treinamento de React Rocketseat. O projeto foi desenvolvido foi executado durante aulas online na plataforma Ignite.
 
 - Utilização do React Vite como javascript bundle.
 - Estruturação de projeto orientado a documentos.
