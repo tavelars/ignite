@@ -3,10 +3,10 @@
 Repositório para armazenar artefatos do treinamento Rocketseat Ignite.
 
 # Descrição do Projeto
-O objetivo do projeto é aplicar os conhecimentos adquiridos através do treinamento de React Rocketseat.
-Utilização do React Vite como javascript bundle.
-Estruturação de projeto orientado a documentos.
-Estilização modular - Component Scoped.
+O objetivo do projeto é aplicar os conhecimentos adquiridos através do treinamento de React Rocketseat.<br>
+Utilização do React Vite como javascript bundle.<br>
+Estruturação de projeto orientado a documentos.<br>
+Estilização modular - Component Scoped.<br>
 
 # Formatos e Renderizacao de Telas
 
