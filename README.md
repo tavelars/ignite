@@ -8,6 +8,14 @@ O objetivo do projeto é aplicar os conhecimentos adquiridos através do treinam
 - Utilização do React + Vite como javascript bundle.
 - Estruturação de projeto orientado a documentos.
 - Estilização modular - Component Scoped.
+- box modle css.
+
+# Ferramentas
+
+- NodeJs https://nodejs.org/en
+- Node Package Manager N.
+- Vite https://vitejs.dev/
+- Tailwindcss - https://tailwindcss.com/
 
 # Formatos e Renderizacao de Telas
 
