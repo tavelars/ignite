@@ -12,3 +12,6 @@ SSR - Server Side Rendering. O Browser se comunica com o Back-end e esse retorna
 SPA - Single Page Application. O Browser se comunica com o Back-end e ele retorna os dados necessários para o cliente renderizar a página, normalmente em um formato comum a múltiplas plataformas (ex: JSON). Dessa forma, o mesmo JSON pode ser utilizado para renderizar uma página no Browser pelo ReactJS e uma tela nos aplicativos iOS/Android pelo React Native por exemplo.
 
 Bundler - Ferramenta para a conversão de agrupamentos de arquivos javascript. Vitejs, Snowpack, Webpack.
+
+# Principais comandos:
+
