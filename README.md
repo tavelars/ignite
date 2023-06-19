@@ -16,6 +16,7 @@ O objetivo do projeto é aplicar os conhecimentos adquiridos através do treinam
 - Node Package Manager N.
 - Vite https://vitejs.dev/
 - Tailwindcss - https://tailwindcss.com/
+- Unplash (repositório de imagens free) - https://unsplash.com/
 
 # Formatos e Renderizacao de Telas
 
