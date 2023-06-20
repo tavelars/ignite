@@ -1,5 +1,6 @@
 import { ThumbsUp, Trash } from 'phosphor-react';
 import styles from './Comment.module.css';
+import { Avatar } from './Avatar';
 
 export function Comment() {
     
@@ -7,7 +8,7 @@ export function Comment() {
 
         <div className={styles.comment}>
 
-            <img src="https://media.licdn.com/dms/image/C4E03AQEbRCkeXSLobg/profile-displayphoto-shrink_800_800/0/1552956995115?e=1692835200&v=beta&t=CfQmof3GloFy_3V5M7S0qVEA6qWjKsaPqBL3jTQEXxY"/>
+            <Avatar hasBorder={false} src="https://media.licdn.com/dms/image/C4E03AQEbRCkeXSLobg/profile-displayphoto-shrink_800_800/0/1552956995115?e=1692835200&v=beta&t=CfQmof3GloFy_3V5M7S0qVEA6qWjKsaPqBL3jTQEXxY"/>
             
             <div className={styles.commentBox}>
                 
@@ -29,7 +30,7 @@ export function Comment() {
 
                 <footer>
                     <button>
-                        <ThumbsUp/> 
+                        <ThumbsUp /> 
                         Aplaudir <span>20</span>
                     </button>
                 </footer>

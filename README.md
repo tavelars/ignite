@@ -29,3 +29,14 @@ Bundler - Ferramenta para a conversão de agrupamentos de arquivos javascript. V
 
 # Principais comandos:
 
+- Configurar strict ssl false --> npm set strict-ssl false 
+- Configurar o projeto utilizando o Vite --> npm create vite@latest
+- Instalar as dependências do projeto --> npm instal ou npm i
+- Visualizar ou Executar a estrutura do projeto --> npm run dev
+- Instalar o gerenciador de pacotes N --> npm install -g n
+- Instalar a lib de icones Phosphor Icon --> npm install phosphor-react
+
+
+
+
+
