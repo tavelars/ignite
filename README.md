@@ -2,6 +2,8 @@
 
 Repositório para armazenar artefatos do treinamento Rocketseat Ignite.
 
+<p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
+
 ##  :bulb: O Projeto
 O objetivo do projeto é aplicar os conhecimentos adquiridos através do treinamento de React Rocketseat. O projeto foi desenvolvido foi executado durante aulas online na plataforma Ignite.
 
