@@ -17,6 +17,7 @@ O objetivo do projeto é aplicar os conhecimentos adquiridos através do treinam
 - Vite https://vitejs.dev/
 - Tailwindcss - https://tailwindcss.com/
 - Unplash (repositório de imagens free) - https://unsplash.com/
+- Bilbioteca de icones Phosphor Icons - https://phosphoricons.com/
 
 # Formatos e Renderizacao de Telas
 
