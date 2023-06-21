@@ -29,6 +29,12 @@ SPA - Single Page Application. O Browser se comunica com o Back-end e ele retorn
 
 Bundler - Ferramenta para a conversão de agrupamentos de arquivos javascript. Vitejs, Snowpack, Webpack.
 
+O estado são variáveis que eu gostaria que o componente monitorasse. useState.
+
+Programação Imperativa - É dito ao software o que deve ser realizado. Passo a Passo do que deve ser realizado.
+
+Programação Declarativa - Ao invés de realizar o passo a passo é declarado as condições para alcançar o resultado esperado.
+
 # Principais comandos:
 
 - Configurar strict ssl false --> npm set strict-ssl false 
@@ -37,6 +43,8 @@ Bundler - Ferramenta para a conversão de agrupamentos de arquivos javascript. V
 - Visualizar ou Executar a estrutura do projeto --> npm run dev
 - Instalar o gerenciador de pacotes N --> npm install -g n
 - Instalar a lib de icones Phosphor Icon --> npm install phosphor-react
+- Instalar a lib Date-FNS para trabalhar com Date --> npm i date-fns
+
 
 
 
