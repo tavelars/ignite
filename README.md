@@ -49,10 +49,10 @@ https://dev.to/mattdclarke/what-is-a-closure-example-use-cases-in-javascript-and
 	
 Momentos em que a renderização de tela ocorre no react:
 
-1- Quando o estado altera.
-2- Quando a propriedade do componente altera.
-3- Quando um componente pai renderiza novamente.
-4- Não utilizar indices de arrays como key de componentes. Utilize identificadores únicos para o componente ao invés.
+- 1- Quando o estado altera.
+- 2- Quando a propriedade do componente altera.
+- 3- Quando um componente pai renderiza novamente.
+- 4- Não utilizar indices de arrays como key de componentes. Utilize identificadores únicos para o componente ao invés.
 
 # Principais comandos:
 
