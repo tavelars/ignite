@@ -21,7 +21,7 @@ O objetivo do projeto é aplicar os conhecimentos adquiridos através do treinam
 - Unplash (repositório de imagens free) - https://unsplash.com/
 - Bilbioteca de icones Phosphor Icons - https://phosphoricons.com/
 
-# Formatos e Renderizacao de Telas
+## :pushpin: Formatos e Renderizacao de Telas
 
 SSR - Server Side Rendering. O Browser se comunica com o Back-end e esse retorna o conteúdo da página pronto (ex.: HTML, CSS, JS).
 
@@ -34,6 +34,23 @@ O estado são variáveis que eu gostaria que o componente monitorasse. useState.
 Programação Imperativa - É dito ao software o que deve ser realizado. Passo a Passo do que deve ser realizado.
 
 Programação Declarativa - Ao invés de realizar o passo a passo é declarado as condições para alcançar o resultado esperado.
+
+A única forma de realizar a comunicação entre componentes é através das suas propriedades. É possível passar função como propriedades e trabalhar de forma imutável com variáveis.
+
+Sempre que uma informação for atualizada e depender do seu estado anterior é ideal e recomendado utilização de closures (função anonima).
+
+	function handleLikeComment() { 	
+		setLikeCount((state) => {
+			return state + 1;
+		})
+	}
+	
+Momentos em que a renderização de tela ocorre no react:
+
+1- Quando o estado altera.
+2- Quando a propriedade do componente altera.
+3- Quando um componente pai renderiza novamente.
+4- Não utilizar indices de arrays como key de componentes. Utilize identificadores únicos para o componente ao invés.
 
 # Principais comandos:
 
