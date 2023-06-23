@@ -32,9 +32,9 @@ const posts = [
        role: 'Developer'
     },
     content: [
-       {type: 'paragraph', content: 'Olá pessoal, bem vindos!'},
-       {type: 'paragraph', content: 'Atualizando o portifólio de projetos para o ano de 2023 utilizando PHP e MongoDB.'},
-       {type: 'link', content: 'https://github.com/tavelars/ignite#bulb-descri%C3%A7%C3%A3o-do-projeto'}
+       {id:1, type: 'paragraph', content: 'Olá pessoal, bem vindos!'},
+       {id:2, type: 'paragraph', content: 'Atualizando o portifólio de projetos para o ano de 2023 utilizando PHP e MongoDB.'},
+       {id:3, type: 'link', content: 'https://github.com/tavelars/ignite#bulb-descri%C3%A7%C3%A3o-do-projeto'}
     ],
     publishedAt: new Date('2023-06-25 19:30:00')
   }
