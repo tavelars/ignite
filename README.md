@@ -44,6 +44,8 @@ Sempre que uma informação for atualizada e depender do seu estado anterior é 
 			return state + 1;
 		})
 	}
+Uma boa referência para a utilização de closures:
+https://dev.to/mattdclarke/what-is-a-closure-example-use-cases-in-javascript-and-react-2e6j	
 	
 Momentos em que a renderização de tela ocorre no react:
 
