@@ -12,7 +12,7 @@ O objetivo do projeto é aplicar os conhecimentos adquiridos através do treinam
 - Estilização modular - Component Scoped.
 - box modle css.
 
-# Ferramentas
+# 🧰 Ferramentas
 
 - NodeJs https://nodejs.org/en
 - Node Package Manager N.
@@ -20,6 +20,7 @@ O objetivo do projeto é aplicar os conhecimentos adquiridos através do treinam
 - Tailwindcss - https://tailwindcss.com/
 - Unplash (repositório de imagens free) - https://unsplash.com/
 - Bilbioteca de icones Phosphor Icons - https://phosphoricons.com/
+- Biblioteca de fontes Roboto - https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;500;600;700&family=Roboto:wght@400;700&display=swap
 
 ## :pushpin: Formatos e Renderizacao de Telas
 
@@ -46,6 +47,8 @@ Sempre que uma informação for atualizada e depender do seu estado anterior é 
 	}
 Uma boa referência para a utilização de closures:
 https://dev.to/mattdclarke/what-is-a-closure-example-use-cases-in-javascript-and-react-2e6j	
+
+Inferência de Tipo quando utiliza-se Typescript.
 	
 Momentos em que a renderização de tela ocorre no react:
 
